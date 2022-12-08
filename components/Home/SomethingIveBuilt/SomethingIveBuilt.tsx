@@ -150,7 +150,7 @@ export default function SomethingIveBuilt() {
                   <span className="pr-4 z-10">TwitterAPI</span>
                   <span className="pr-4 z-10">Node.js</span>
                   <span className="pr-4 z-10">Firebase</span>
-                  <span className="pr-4 z-10">Machine Learning (Baye's Algorithm)</span>
+                  <span className="pr-4 z-10">Machine Learning (Baye`s Algorithm)</span>
                 </ul>
                 <div className="z-10 flex fle-row space-x-5 sm:pt-0 pt-2">
                   <GithubIcon link="https://github.com/KunalKatiyar/HashPoster" />
