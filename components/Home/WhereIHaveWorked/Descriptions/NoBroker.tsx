@@ -5,16 +5,16 @@ import { getTasksTextWithHighlightedKeyword } from "./taskAndType";
 export default function Fantasia() {
   const tasks = [
     {
-      text: "Responsible for Windows Server 2008 r2 installs, configuration and support Active Directory, DNS, DHCP, WINS..",
-      keywords: ["Windows Server 2008"],
+      text: "Worked on the project of 'Dynamic Ads' to help adapt the Ads on the main website for millions of users.",
+      keywords: ["'Dynamic Ads'"],
     },
     {
-      text: "Migration of Windows 2008 to Windows Server 2012 .",
-      keywords: ["Migration"],
+      text: "Designed and Developed APIs and CRUD Dashboard to create and edit ads for the admins of different teams.",
+      keywords: ["APIs", "CRUD Dashboard"],
     },
     {
-      text: "Responsible for Server full, differential and incremental backups using Veeam Endpoint Backup with SQL Server 2012.",
-      keywords: ["Veeam Endpoint Backup", "SQL Server 2012"],
+      text: "Researched and Implemented algorithms to personalize ads based on previous user activites on the website.",
+      keywords: ["Implemented algorithms"],
     },
   ];
   return (
@@ -22,10 +22,10 @@ export default function Fantasia() {
       <div className="flex flex-col spacey-y-2">
         {/* Title */}
         <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-          Server Manager Assistant <span className="text-AAsecondary">@ Windows Server</span>
+          Full Stack Developer <span className="text-AAsecondary">@ React.js + Node.js</span>
         </span>
         {/* Date */}
-        <span className="font-mono text-xs text-gray-500">June - July 2018</span>
+        <span className="font-mono text-xs text-gray-500">May 2022 - July 2022</span>
       </div>
       <div className="flex flex-col space-y-4 sm:text-sm text-xs">
       {tasks.map((item, index) => {
