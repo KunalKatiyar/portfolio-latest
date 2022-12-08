@@ -8,7 +8,7 @@
   The first iteration of <a href="https://kunalkatiyar.com" target="_blank">kunalkatiyar.com</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
-![demo](https://user-images.githubusercontent.com/62770500/199337431-d632cc3c-12fb-40db-8f96-0d5e55555579.png)
+![ok jpg](https://user-images.githubusercontent.com/11738485/206419302-0c09fc20-f4ff-4390-af31-cc24f2638b00.png)
 
 ---
 ### Table of Contents
