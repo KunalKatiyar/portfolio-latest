@@ -2,10 +2,10 @@
   <img alt="Logo" src="https://kunal-katiyar.web.app/img/KK.6f60b328.jpeg" width="100" />
 </div>
 <h1 align="center">
-  kunalkatiyar.com - v1
+  kunalkatiyar.vercel.app - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="https://kunalkatiyar.com" target="_blank">kunalkatiyar.com</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  The first iteration of <a href="https://kunalkatiyar.vercel.app" target="_blank">kunalkatiyar.vercel.app</a> built with <a href="https://nextjs.org/" target="_blank">Nextjs</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 ![ok jpg](https://user-images.githubusercontent.com/11738485/206419302-0c09fc20-f4ff-4390-af31-cc24f2638b00.png)
@@ -49,14 +49,14 @@ Since i integrated some of my project into my website i'll i mention most of tec
 
 ### How To Use
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [anaflous.com](https://anaflous.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [kunalkatiyar.vercel.app](https://kunalkatiyar.vercel.app). Thanks!
 
 ## 🛠 Installation & Set Up
 
 1. Clone the repo CLI
 
    ```sh
-   git clone https://github.com/hktitof/my-website.git
+   git clone https://github.com/KunalKatiyar/portfolio-latest
    ```
 
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)

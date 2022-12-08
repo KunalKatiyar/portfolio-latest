@@ -57,9 +57,9 @@ export default function Home() {
 
   console.log("Portfolio Rendered...");
   const meta = {
-    title: "Abdellatif Anaflous - Software Engineer",
-    description: `I've been working on Software development for 5 years straight. Get in touch with me to know more.`,
-    image: "/titof.png",
+    title: "Kunal Katiyar - Software Engineer",
+    description: `I've been working on Software development for 1 year. Get in touch with me to know more.`,
+    image: "/img/titof.jpg",
     type: "website",
   };
  
@@ -69,8 +69,8 @@ export default function Home() {
         <title>{meta.title}</title>
         <meta name="robots" content="follow, index" />
         <meta content={meta.description} name="description" />
-        <meta property="og:url" content={`https://anaflous.com`} />
-        <link rel="canonical" href={`https://anaflous.com`} />
+        <meta property="og:url" content={`https://kunalkatiyar.vercel.app`} />
+        <link rel="canonical" href={`https://kunalkatiyar.vercel.app`} />
         <meta property="og:type" content={meta.type} />
         <meta property="og:site_name" content="Manu Arora" />
         <meta property="og:description" content={meta.description} />
@@ -93,7 +93,7 @@ export default function Home() {
         {context.sharedState.finishedLoading ? <SomethingIveBuilt /> : <></>}
         {context.sharedState.finishedLoading ? <GetInTouch /> : <></>}
         {context.sharedState.finishedLoading ? (
-          <Footer githubUrl={"https://github.com/hktitof/my-website"} hideSocialsInDesktop={true} />
+          <Footer githubUrl={"https://github.com/KunalKatiyar/portfolio-latest"} hideSocialsInDesktop={true} />
         ) : (
           <></>
         )}
