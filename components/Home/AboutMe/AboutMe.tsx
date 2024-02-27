@@ -43,8 +43,8 @@ export default function AboutMe(props) {
                 <span className="text-AAsecondary"> a education based app</span>, and also 
                 <span className="text-AAsecondary"> freelancing</span>. Experienced in Desktop & Web
                 Development, lately with System Development in <span className="text-AAsecondary">C++</span>
-                and <span className="text-AAsecondary">Rust</span>. My main focus these days is practicing{" "}
-                <span className="text-AAsecondary">Game-Development</span> with <span className="text-AAsecondary">Godot</span>.
+                and <span className="text-AAsecondary">Rust</span>. My main focus these days is mastering{" "}
+                <span className="text-AAsecondary">Concurrent Systems</span> with <span className="text-AAsecondary">Rust</span>.
               </span>
             </div>
 
